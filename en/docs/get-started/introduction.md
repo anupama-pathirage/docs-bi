@@ -1,6 +1,6 @@
 # Introduction
 
-WSO2 Integrator: BI is a powerful low-code integration platform built on top of the <a href = "https://ballerina.io/">Ballerina programming language</a>. It’s designed to help developers quickly build, deploy, and manage integration solutions with minimal boilerplate and maximum productivity. Whether you're working with APIs, messaging systems, databases, or SaaS platforms, BI offers first-class language support and built-in tooling to make integration seamless and efficient.
+WSO2 Integrator: BI is a powerful low-code integration platform built on top of the <a href = "https://ballerina.io/">Ballerina programming language</a>. It’s designed to help developers quickly build, deploy, and manage integration solutions with minimal boilerplate and maximum productivity. Whether you're working with APIs, messaging systems, databases, or SaaS platforms, WSO2 Integrator: BI offers first-class language support and built-in tooling to make integration seamless and efficient.
 
 Whether you’re modernizing legacy systems or building cloud-native services, BI provides a productive and scalable path to integration, helping teams drive digital transformation with clarity, speed, and confidence.
 
